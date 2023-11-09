@@ -1,0 +1,23 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body
+{
+    overflow: hidden;
+    background-color: #01d9ff;
+    background-image: radial-gradient(#fff 1px,transparent 0),radial-gradient(#fff 1px,transparent 0);
+    background-size: 52px 52px;
+    background-position: 0 15px,26px 40px;
+}
+
+.webgl
+{
+    position: fixed;
+    top: 0;
+    left: 0;
+    outline: none;
+}
